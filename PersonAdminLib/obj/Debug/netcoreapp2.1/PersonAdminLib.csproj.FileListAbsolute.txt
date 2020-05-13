@@ -1,0 +1,11 @@
+/Users/Hubaishi/Desktop/FHNW/9thSemester/ecnf6iCbb/Projects/PersonAdminSystem/PersonAdminLib/bin/Debug/netcoreapp2.1/PersonAdminLib.deps.json
+/Users/Hubaishi/Desktop/FHNW/9thSemester/ecnf6iCbb/Projects/PersonAdminSystem/PersonAdminLib/bin/Debug/netcoreapp2.1/PersonAdminLib.runtimeconfig.json
+/Users/Hubaishi/Desktop/FHNW/9thSemester/ecnf6iCbb/Projects/PersonAdminSystem/PersonAdminLib/bin/Debug/netcoreapp2.1/PersonAdminLib.runtimeconfig.dev.json
+/Users/Hubaishi/Desktop/FHNW/9thSemester/ecnf6iCbb/Projects/PersonAdminSystem/PersonAdminLib/bin/Debug/netcoreapp2.1/PersonAdminLib.dll
+/Users/Hubaishi/Desktop/FHNW/9thSemester/ecnf6iCbb/Projects/PersonAdminSystem/PersonAdminLib/bin/Debug/netcoreapp2.1/PersonAdminLib.pdb
+/Users/Hubaishi/Desktop/FHNW/9thSemester/ecnf6iCbb/Projects/PersonAdminSystem/PersonAdminLib/obj/Debug/netcoreapp2.1/PersonAdminLib.csprojAssemblyReference.cache
+/Users/Hubaishi/Desktop/FHNW/9thSemester/ecnf6iCbb/Projects/PersonAdminSystem/PersonAdminLib/obj/Debug/netcoreapp2.1/PersonAdminLib.csproj.CoreCompileInputs.cache
+/Users/Hubaishi/Desktop/FHNW/9thSemester/ecnf6iCbb/Projects/PersonAdminSystem/PersonAdminLib/obj/Debug/netcoreapp2.1/PersonAdminLib.AssemblyInfoInputs.cache
+/Users/Hubaishi/Desktop/FHNW/9thSemester/ecnf6iCbb/Projects/PersonAdminSystem/PersonAdminLib/obj/Debug/netcoreapp2.1/PersonAdminLib.AssemblyInfo.cs
+/Users/Hubaishi/Desktop/FHNW/9thSemester/ecnf6iCbb/Projects/PersonAdminSystem/PersonAdminLib/obj/Debug/netcoreapp2.1/PersonAdminLib.dll
+/Users/Hubaishi/Desktop/FHNW/9thSemester/ecnf6iCbb/Projects/PersonAdminSystem/PersonAdminLib/obj/Debug/netcoreapp2.1/PersonAdminLib.pdb
